@@ -16,7 +16,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "server": "json-server db.json --watch --port 5000", //modificado
+    "server": "json-server  src/assets/db.json  --port 5000", //modificado
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
