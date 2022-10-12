@@ -16,6 +16,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "json": "json-server --watch src/assets/db.json ",
+    "jsony":"y",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
