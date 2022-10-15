@@ -15,8 +15,8 @@
     "react-scroll": "^1.8.7",
     "web-vitals": "^2.1.4"
   },
-  "scripts": {
-    "start": "concurrently \"json-server --watch src/assets/db.json\" \"react-scripts start\"",
+  "scripts":  {
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
